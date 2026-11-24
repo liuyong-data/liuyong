@@ -15,13 +15,13 @@
 
 | 内容 | 进度 |
 |---|---|
-| Python 基础 | 进行中 |
-| SQL | 未开始 |
+| Python 基础 | 已完成 |
+| SQL | 刚起步 |
 | Git / GitHub | 刚起步 |
 
 ## 🔧 技能
 
-- Python（学习中）
+- Python（完成基础）
 - Git / GitHub（刚起步）
 
 ---
